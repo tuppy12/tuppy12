@@ -29,7 +29,7 @@ Author. TUPPY
     <li>python Uchezzy.py</li>
 </ul>
 <h1>Usage</h1>
-<li>cd $HOME/Uchezzy</li>
+<li>cd $HOME/tuppy12/li>
 <li>python Uchezzy.py</li>
 </ul>
 <h1>My Contact Links</h1>
