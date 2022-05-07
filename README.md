@@ -23,14 +23,14 @@ Author. TUPPY
     <li>pip2 install requests</li>
     <li>pip2 install mechanize</li>
     <li>pip2 install bs4 futures</li>
-    <li>rm -rf $HOME/Uchezzy
+    <li>rm -rf $HOME/tup
     <li>git clone https://github.com/tuppy12/tuppy12</li>
-    <li>cd $HOME/Uchezzy</li>
-    <li>python Uchezzy.py</li>
+    <li>cd $HOME/tup12</li>
+    <li>python tup.py</li>
 </ul>
 <h1>Usage</h1>
 <li>cd $HOME/tuppy12/li>
-<li>python Uchezzy.py</li>
+<li>python tuppy.py</li>
 </ul>
 <h1>My Contact Links</h1>
 <p>Personal Chat Whatsapp <a href="https://bit.ly/3iXPXdK" target="_blank">Click</a>.</p>
