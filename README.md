@@ -29,7 +29,7 @@ Author. TUPPY
     <li>python tup.py</li>
 </ul>
 <h1>Usage</h1>
-<li>cd $HOME/tuppy12/li>
+<li>cd $HOME/tuppy12</li>
 <li>python tuppy.py</li>
 </ul>
 <h1>My Contact Links</h1>
