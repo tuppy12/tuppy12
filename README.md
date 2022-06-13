@@ -33,7 +33,7 @@ Author. TUPPY
 <li>python tuppy.py</li>
 </ul>
 <h1>My Contact Links</h1>
-<p>Personal Chat Whatsapp <a href="https://bit.ly/3iXPXdK" target="_blank">Click</a>.</p>
+<p>Personal Chat Whatsapp <a href="https://wa.link/4we8vp" target="_blank">Click</a>.</p>
 </ul>
 <h1>Disclaimer</h1>
 <p>This Tool Is For Educational Purpose Only.Iam Not Responsible For Any Kind Of Lose By This Script.Use It On Your Own Risk</p>
