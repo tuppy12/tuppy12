@@ -1,5 +1,4 @@
-
-<p>&nbsp;<img align="center" src="https://github-readme-st<h1 align="center">Hi ☺️, I'm Tuppy</h1>
+<h1 align="center">Hi ☺️, I'm Tuppy</h1>
 <h3 align="center">A Passionate Programmer from Nigeria 🥺</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tuppy12&label=Profile%20views&color=0e75b6&style=flat" alt="tuppy12" /> </p>
@@ -18,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.youtube.com/c/tuppy pubg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="tuppy pubg" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://youtube.com/channel/ucxrg5qgnzlzsrq-baho6ghq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/channel/ucxrg5qgnzlzsrq-baho6ghq" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
