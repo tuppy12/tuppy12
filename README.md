@@ -5,19 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tuppy12" alt="tuppy12" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/tuppy06" target="blank"><img src="https://img.shields.io/twitter/follow/tuppy06?logo=twitter&style=for-the-badge" alt="tuppy06" /></a> </p>
+<p align="left"> <a href="https://YouTube.com/TUPPYPUBG" target="blank"><img src="https://img.shields.io/YouTube/follow/TUPPYPUBG?logo=YouTube&style=for-the-badge" alt="TUPPYPUBG" /></a> </p>
 
 - 🔭 I’m currently working on [https://github.com/tuppy12/copy-a-noob](https://github.com/tuppy12/copy-a-noob)
 
 - 🌱 I’m currently learning **Python**
 
 - 👨‍💻 All of my projects are available at [https://github.com/tuppy12](https://github.com/tuppy12)
-
-- 💬 Ask me about **https://github.com/tuppy12**
-
-- 📫 How to reach me **tobiadejumo8@gmail.com**
-
-- 📄 Know about my experiences [https://github.com/tuppy12](https://github.com/tuppy12)
 
 - ⚡ Fun fact **I'm a noob**
 
