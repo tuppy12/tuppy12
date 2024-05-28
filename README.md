@@ -3,6 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tuppy12&label=Profile%20views&color=0e75b6&style=flat" alt="tuppy12" /> </p>
 Project partner https://github.com/SegunOniemola/SegunOniemola
+
 - 🔭 I’m currently working on [https://github.com/tuppy12/copy-a-noob](https://github.com/tuppy12/copy-a-noob)
 
 - 🌱 I’m currently learning **Python**
